@@ -6,7 +6,7 @@ This project implements a simple yet modular pipeline using Ultralytics YOLOv8 f
 
   1.Clone the Repository
   
-      git clone <your-repo-url>
+      git clone <https://github.com/shrihareepanchal/Yolov8-Object-Detection-Pipeline>
       cd Pipeline
           
   2.Create and Activate Virtual Environment
