@@ -1,4 +1,4 @@
-# Yolov8-Pipeline
+# Yolov8 Object Detection Pipeline
 
 This project implements a simple yet modular pipeline using Ultralytics YOLOv8 for object detection. It loads a model, runs inference on an input image or video, and prints the detected classes with confidence scores.
 
